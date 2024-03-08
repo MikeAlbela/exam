@@ -1,4 +1,5 @@
 To Start: create a database "shakewell" also update the .env file for the database username and password
+Run php artisan serve
 
 
 To Register submit post request on this url http://localhost:8000/api/register with the following parameters:
