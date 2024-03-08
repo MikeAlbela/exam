@@ -1,4 +1,5 @@
 To Start: create a database "shakewell" also update the .env file for the database username and password
+copy the smtp details from .env.example
 Run php artisan serve
 
 
